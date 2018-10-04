@@ -1,4 +1,5 @@
 ---
 layout: category
-title: Research
+title: Project
+sidebar_sort_order: 3
 ---
