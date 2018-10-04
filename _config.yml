@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Jing Yuan
-tagline:          'Personal Website'
-description:      'Personal Website'
+tagline:          'Ph.D.'
+description:      'Ph.D. in Interdisciplinary Ecology concentrated in GIS'
 url:              ecohydrogeo7.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
