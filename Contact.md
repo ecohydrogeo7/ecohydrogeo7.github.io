@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
-sidebar_link: false
+title: Contact
+sidebar_sort_order: 5
+sidebar_link: True
 ---
 
 <p class="message">
