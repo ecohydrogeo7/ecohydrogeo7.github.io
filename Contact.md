@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 sidebar_sort_order: 5
-sidebar_link: True
+sidebar_link: False
 ---
 
 <p class="message">
