@@ -4,7 +4,7 @@ title: Links
 sidebar_sort_order: 4
 sidebar_link: True
 ---
-## North Coast
+## Northeast Coast
 [Sustainable Ecological Aquaculture Network(SEANET)](https://umaine.edu/epscor/seanet/)
 
 ## Southeast Coast
