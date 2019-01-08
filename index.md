@@ -29,7 +29,6 @@ Remote Sensing
 ## Contact Information
 Address:
 348 Boardman Hall
-School of Computing and Information Science
 University of Maine
 Orono,ME 04469
 
