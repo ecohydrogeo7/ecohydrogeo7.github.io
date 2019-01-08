@@ -10,7 +10,7 @@ sidebar_link: True
 ## Southeast Coast
 [The Howard T. Odum Center for Wetlands](https://cfw.essie.ufl.edu/)
 
-[My dissertation supervisor- Matt Cohen](http://sfrc.ifas.ufl.edu/ecohydrology/index.html)
+[My dissertation advisor - Matt Cohen](http://sfrc.ifas.ufl.edu/ecohydrology/index.html)
 
 
 
