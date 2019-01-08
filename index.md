@@ -11,7 +11,9 @@ Beyond acadamia, I am highly active in sports areana. I play tennis, badmintion,
 ## Education
 
 PhD Interdisciplinary Ecology concentration in GIS, University of Florida,2015
+
 MSc Natural Resources Conservation,Beijing Forestry University,2009
+
 BS Enviornmental Science, Southwest Forestry University, 2005
 
 ## Research Interest
