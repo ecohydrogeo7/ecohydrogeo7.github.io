@@ -18,7 +18,7 @@ BS Enviornmental Science, Southwest Forestry University, 2005
 
 ## Research Interest
 
-Wetland ecology
+Ecosystem ecology
 
 Landscape ecology
 
@@ -32,4 +32,4 @@ Address:
 University of Maine
 Orono,ME 04469
 
-Email:jing.yuan@maine.edu
+Email:jing.yuan at maine.edu
