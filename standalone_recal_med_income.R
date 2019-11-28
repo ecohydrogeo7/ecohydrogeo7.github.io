@@ -8,7 +8,8 @@ library(reshape2)
 library(tidyr)
 
 # input data format
-input_df <- read.csv("C:\\Users\\admin\\Documents\\github\\income_sample.csv",sep=",")
+# TODO Change to local dir
+input_df <- read.csv("your file path",sep=",")
 
 
 #### Median ####
