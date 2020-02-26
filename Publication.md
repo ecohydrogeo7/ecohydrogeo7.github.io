@@ -5,7 +5,7 @@ sidebar_sort_order: 2
 sidebar_link: True
 ---
 
-## Journal articles
+## Journal Articles
 
 [Beard, K.; Kimble, M.; Yuan, J.; Evans, K.S.; Liu, W.; Brady, D.; Moore, S. A Method for Heterogeneous Spatio-Temporal Data Integration in Support of Marine Aquaculture Site Selection. J. Mar. Sci. Eng. 2020, 8, 96.]
 (https://www.mdpi.com/2077-1312/8/2/96)
