@@ -7,11 +7,9 @@ sidebar_link: True
 
 ## Journal Articles
 
-[Beard, K.; Kimble, M.; Yuan, J.; Evans, K.S.; Liu, W.; Brady, D.; Moore, S. A Method for Heterogeneous Spatio-Temporal Data Integration in Support of Marine Aquaculture Site Selection. J. Mar. Sci. Eng. 2020, 8, 96.]
-(https://www.mdpi.com/2077-1312/8/2/96)
+[Beard, K.; Kimble, M.; Yuan, J.; Evans, K.S.; Liu, W.; Brady, D.; Moore, S. A Method for Heterogeneous Spatio-Temporal Data Integration in Support of Marine Aquaculture Site Selection. J. Mar. Sci. Eng. 2020, 8, 96.](https://www.mdpi.com/2077-1312/8/2/96/pdf)
 
-[Johnson, T.R.; Beard, K.; Brady, D.C.; Byron, C.J.; Cleaver, C.; Duffy, K.; Keeney, N.; Kimble, M.; Miller, M.; Moeykens, S.; Teisl, M.; van Walsum, G.P.; Yuan, J. A Social-Ecological System Framework for Marine Aquaculture Research. Sustainability 2019, 11, 2522.]
-(https://www.mdpi.com/2071-1050/11/9/2522)
+[Johnson, T.R.; Beard, K.; Brady, D.C.; Byron, C.J.; Cleaver, C.; Duffy, K.; Keeney, N.; Kimble, M.; Miller, M.; Moeykens, S.; Teisl, M.; van Walsum, G.P.; Yuan, J. A Social-Ecological System Framework for Marine Aquaculture Research. Sustainability 2019, 11, 2522.](https://www.mdpi.com/2071-1050/11/9/2522)
 
 [Yuan, J., & Cohen, M. J. (2017). Spatial metrics for detecting ecosystem degradation in the ridge-slough patterned landscape. Ecological indicators, 74, 427-440.](https://www.researchgate.net/profile/David_Kaplan12/publication/283706238_Hydrologic_implications_of_smoldering_fires_in_wetland_landscapes/links/56732f4408aedbbb3f9f85e8.pdf)
 
